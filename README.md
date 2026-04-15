@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a complete bulk RNA-seq analysis workflow, from raw sequencing data preprocessing to downstream statistical analysis and visualization using DESeq2 in R.
+This repository contains a complete bulk RNA-seq analysis workflow, from raw sequencing data preprocessing to downstream statistical analysis and visualization using DESeq2 in R. This pipeline has been used for RNA sequencing data from grapevine leaves, as well as corn seeds treated with biocontrol agents and/or pathogens, to study plants' responses.
 
 The pipeline is divided into:
 * Bash scripts for preprocessing (fastQC and fastp), genome indexing and alignment (HISAT2) and quantification (featureCounts)
