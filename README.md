@@ -6,7 +6,7 @@ This repository contains a complete bulk RNA-seq analysis workflow, from raw seq
 
 The pipeline is divided into:
 * Bash scripts for preprocessing (fastQC and fastp), genome indexing and alignment (HISAT2) and quantification (featureCounts)
-* An R script for exploratory analysis, visualization, and differential gene expression analysis. The script also contains 
+* An R script for exploratory analysis, visualization, and differential gene expression analysis.
 -----------------------------------------------------------------------------------
 ## Workflow Summary
 1. **Preprocessing**
