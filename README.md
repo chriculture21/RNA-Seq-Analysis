@@ -51,19 +51,19 @@ The pipeline is divided into:
 ## Usage
 ### 1. Run preprocessing
 ```bash
-bash preprocessing.sh
+bash 1.preprocessing.sh
 ```
 ### 2. Index the reference genome
 ```bash
-bash indexing.sh
+bash 2.hisat2_indexing.sh
 ```
 ### 3. Align reads
 ```bash
-bash alignment.sh
+bash 3.hisat2_alignment.sh
 ```
 ### 4. Count reads per gene
 ```bash
-bash featureCounts.sh
+bash 4.featureCounts.sh
 ```
 ### 5. Perform statistical analysis in R
 ```r
