@@ -88,6 +88,6 @@ The R workflow includes:
 * Proper experimental design is critical for valid statistical results.
 --------------------------------------------------------------------------------
 
-## 👤 Author
+## Author
 
-Your Name
+Christos Tsoukas
